@@ -1,0 +1,5 @@
+pedro 6
+eloi 5
+icaro 3
+jhon 2
+none 0

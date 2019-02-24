@@ -1,0 +1,5 @@
+jow 16
+icaro 10
+marcio 4
+none 0
+none 0
